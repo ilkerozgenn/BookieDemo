@@ -15,7 +15,7 @@ Tools That Are Used:
 	- Java AWT Library
 
 Instructions: 
-	\n1. Unzip the folder to a suitable place in the computer.
+	1. Unzip the folder to a suitable place in the computer.
 	2. Open any Java IDE and open the project in it.
 	3. Click on src folder and open BookieDemo.java file.
 	4. Right-click on the code and click "run".
