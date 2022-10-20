@@ -7,16 +7,16 @@ place to trade the textbook. This application is designed to benefit both active
 alumni since people will earn money by selling books they do not use anymore and buy the books 
 they need for a cheaper price. 
 
-Tools That Are Used: 
-	- Netbeans IDE 8.2
-	- Visual Studio Code 15.0.1
-	- IntelliJ Idea 2020.3.2
-	- Java Swing Library	
-	- Java AWT Library
+Tools That Are Used: <br>
+	- Netbeans IDE 8.2 <br>
+	- Visual Studio Code 15.0.1 <br>
+	- IntelliJ Idea 2020.3.2 <br>
+	- Java Swing Library <br>
+	- Java AWT Library <br>
 
-Instructions: 
-	1. Unzip the folder to a suitable place in the computer.
-	2. Open any Java IDE and open the project in it.
-	3. Click on src folder and open BookieDemo.java file.
-	4. Right-click on the code and click "run".
-	5. Now, the demo of the application should be running successfully.
+Instructions: <br>
+	1. Unzip the folder to a suitable place in the computer. <br>
+	2. Open any Java IDE and open the project in it. <br>
+	3. Click on src folder and open BookieDemo.java file. <br>
+	4. Right-click on the code and click "run". <br>
+	5. Now, the demo of the application should be running successfully. <br>
